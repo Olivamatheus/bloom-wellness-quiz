@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Quiz } from "@/components/quiz/Quiz";
 
@@ -17,9 +16,9 @@ const Index = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-bloom-lavender/30 to-bloom-peach/30">
+    <div className="min-h-screen bg-gradient-to-br from-theme-violet-light/40 via-white to-theme-rose-light/40">
       <header className="py-6 px-4 text-center">
-        <h1 className="text-2xl md:text-3xl font-bold text-bloom-purple">Bloom Wellness</h1>
+        <h1 className="text-2xl md:text-3xl font-sora font-bold text-theme-violet">Bloom Wellness</h1>
       </header>
       
       <main className="pb-12">
