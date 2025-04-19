@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+        bloom: {
+          pink: "#FFDEE2",
+          peach: "#FDE1D3",
+          lavender: "#E5DEFF",
+          mint: "#F2FCE2",
+          yellow: "#FEF7CD",
+          blue: "#D3E4FD",
+          purple: "#9b87f5",
+          "light-purple": "#D6BCFA"
+        },
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
